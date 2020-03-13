@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jtan2/opt/github/cmake/src/hyp2sum.c
+stdio.h
+-
+math.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+

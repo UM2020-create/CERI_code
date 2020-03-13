@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/bin/arc2sum.dir/src/arc2sum.o  -o bin/arc2sum -rdynamic -lm 
