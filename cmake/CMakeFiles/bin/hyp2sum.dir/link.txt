@@ -1,1 +1,0 @@
-/usr/bin/cc      CMakeFiles/bin/hyp2sum.dir/src/hyp2sum.o  -o bin/hyp2sum -rdynamic -lm 
